@@ -8,5 +8,5 @@ function shout(string) {
 'Hello!'.toLowerCase() // 'hello!'
 
 function whisper(string) {
-  return string.toUpperCase()
+  return string.toLowerCase()
 }
