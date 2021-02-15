@@ -5,7 +5,7 @@ function shout(string) {
 }
 
 
-'Hello!'.toLowerCase() // 'HELLO!'
+'Hello!'.toLowerCase() // 'hello!'
 
 function shout(string) {
   return string.toUpperCase()
